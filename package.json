@@ -1,0 +1,21 @@
+{
+  "name": "testGit",
+  "version": "1.0.0",
+  "description": "this is test repo",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evgen-kotlov/test-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evgen-kotlov/test-repo/issues"
+  },
+  "homepage": "https://github.com/evgen-kotlov/test-repo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.31.1"
+  }
+}
